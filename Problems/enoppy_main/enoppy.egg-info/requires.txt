@@ -1,0 +1,9 @@
+numpy>=1.17.1
+matplotlib>=3.3.0
+scipy>=1.7.1
+mealpy>=2.5.3
+opfunu>=1.0.0
+
+[dev]
+pytest>=7.0
+twine>=4.0.1
